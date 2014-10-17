@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[udj:home|Door43 (udj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-udj|d43-udj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-udj/archive/master.zip|d43-udj.zip]]
+
+**Recent Changes**
+{{changes>ns = udj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/udj|Ethnologue data]]
+
